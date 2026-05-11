@@ -1,5 +1,7 @@
 # MotorFaultSVM
 
+![Python](https://img.shields.io/badge/Python-3.9-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Machine Learning](https://img.shields.io/badge/ML-SVM-orange)
+
 Python package for induction motor fault detection using Support Vector Machine.
 
 ## Features
